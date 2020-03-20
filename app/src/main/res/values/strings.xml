@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inclass_Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="linear_layout_horizontal">Linear layout horizontal</string>
+    <string name="linear_layout_Vertical">Linear layout Vertical</string>
+    <string name="Relative_layout">Relative Layout</string>
+    <string name="Grid_layout">Grid Layout</string>
+</resources>
